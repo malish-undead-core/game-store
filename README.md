@@ -1,3 +1,9 @@
+![game-store](https://user-images.githubusercontent.com/70330757/213018218-62213f32-08ca-4ea8-8d89-f998bcaa4021.png)
+
+Install dependencies
+
+### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
