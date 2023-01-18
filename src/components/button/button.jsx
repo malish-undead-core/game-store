@@ -6,7 +6,7 @@ const Button = ({
     onClick,
     type,
     children,
-    sixe = "small"
+    size = "small"
 }) => {
     const btnClass = classNames({
         "btn": true,

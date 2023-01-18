@@ -4,8 +4,7 @@ import './cartItem.css'
 const CartItem = ({
     image,
     title,
-    price,
-    id
+    price
 }) => {
     return (
         <div className="cart-item" >

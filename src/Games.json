@@ -1,6 +1,6 @@
 [
     {
-        "image": "/game-covers/forza_5.jpeg",
+        "image": "../game-covers/forza_5.jpeg",
         "title": "Forza Horizon 5",
         "genres": [
             "Racing",
