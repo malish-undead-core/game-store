@@ -12,8 +12,8 @@ const Button = ({
         "btn": true,
         "btn--secondary": type === "secondary",
         "btn--primary": type === "primary",
-        "btn--small": type === "small",
-        "btn--medium": type === "medium"
+        "btn--small": size === "small",
+        "btn--medium": size === "medium"
     })
     return (
         <button className={btnClass} onClick={onClick}>

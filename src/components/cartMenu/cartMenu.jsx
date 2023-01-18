@@ -27,7 +27,7 @@ const CartMenu = ({ items, onClick }) => {
                             <span>Total:</span>
                             <span>{calcTotalPrice(items)} $</span>
                         </div>
-                        <Button type="medium" size="medium" onClick={onClick}>
+                        <Button type="primary" size="medium" onClick={onClick}>
                             Checkout
                         </Button>
                     </div>
