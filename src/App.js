@@ -14,7 +14,7 @@ function App() {
         <div className="app">
           <Header />
           <Routes>
-            <Route path="/game-store" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="app/:title" element={<GamePage />} />
             <Route path="/order" element={<OrderPage />} />
           </Routes>

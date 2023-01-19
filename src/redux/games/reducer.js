@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const gameSlice = createSlice({
+const gamesSlice = createSlice({
     name: "game",
     initialState: {
         currentGame: null
@@ -12,5 +12,5 @@ const gameSlice = createSlice({
     }
 });
 
-export const { setCurrentGame } = gameSlice.actions;
-export default gameSlice.reducer;
+export const { setCurrentGame } = gamesSlice.actions;
+export default gamesSlice.reducer;
