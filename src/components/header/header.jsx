@@ -8,7 +8,7 @@ const Header = () => {
         <div className="header">
             <div className="wrapper">
                 <Link to="/game-store" className="header__store-title">
-                    Game Store
+                    Game - Store
                 </Link>
             </div>
             <div className="wrapper header-cart-btn-wrapper">
